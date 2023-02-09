@@ -1,0 +1,1 @@
+# semgrep_rule_SQLInjection_PHP
