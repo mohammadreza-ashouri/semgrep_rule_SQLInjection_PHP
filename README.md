@@ -4,5 +4,5 @@ Semgrep is a powerful static code analyzer that supports for many languages. Nev
 
 ### How to run:
 ```
-semgrep --config sql-injection-php.yaml --lang=php . 
+semgrep --config ql-injection-php-security-issue --lang=php <target source path> 
 ```
